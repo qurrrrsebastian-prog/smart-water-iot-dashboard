@@ -525,5 +525,5 @@ with tab_export:
     else:
         st.info("Select a start and end date.")
 
-# UPDATED: pass active project for footer navigation highlight
-render_footer(active_project="#18 IoT")
+# Portfolio footer with navigation to all 9 projects
+render_footer()
